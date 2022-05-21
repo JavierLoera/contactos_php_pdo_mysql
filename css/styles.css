@@ -1,0 +1,11 @@
+body{
+    height:auto;
+    position:relative
+}
+
+#footer{
+    text-align: center;
+    height: 60px;
+    position: absolute;
+    bottom: -100px;
+}
